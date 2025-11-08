@@ -1,0 +1,10 @@
+#!/bin/bash
+# List all files (including hidden) in the current directory
+ls -la .
+
+# List all files (including hidden) in the parent directory
+ls -la ..
+
+# List all files (including hidden) in /boot
+ls -la /boot
+
